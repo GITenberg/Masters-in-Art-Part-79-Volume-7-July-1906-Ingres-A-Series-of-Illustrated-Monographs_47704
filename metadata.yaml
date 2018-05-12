@@ -1,4 +1,5 @@
 _repo: Masters-in-Art-Part-79-Volume-7-July-1906-Ingres-A-Series-of-Illustrated-Monographs_47704
+_version: 0.1.0
 contributor:
   commentators:
   - agent_name: Blanc, Charles
@@ -10,6 +11,9 @@ contributor:
   - agent_name: Muther, Richard
     gutenberg_agent_id: '42409'
     url: http://www.gutenberg.org/2009/agents/42409
+covers:
+- cover_type: archival
+  image_path: 47704-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -20,6 +24,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47704#Masters-in-Art-Part-79-Volume-7-July-1906-Ingres-A-Series-of-Illustrated-Monographs
 gutenberg_issued: '2014-12-19'
 gutenberg_type: Text
 identifiers:
