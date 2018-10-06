@@ -34,6 +34,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Masters in Art, Part 79, Volume 7, July, 1906: Ingres
 
   A Series of Illustrated Monographs'
